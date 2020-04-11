@@ -1,3 +1,3 @@
-## Typescript Casts
+## TypeScript
 
-Companion repo to a course hosted on Udemy.com
+Companion repo to a course on Udemy.com
